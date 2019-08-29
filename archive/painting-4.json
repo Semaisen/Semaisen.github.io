@@ -1,0 +1,26 @@
+{
+  "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  "body": [
+    {
+      "type": "heading",
+      "model": {
+        "text": "Rue de Draguinan"
+      }
+    },
+    {
+      "type": "paragraph",
+      "model": {
+        "text": "w 130cm x h 130cm"
+      }
+    },
+    {
+      "type": "image",
+      "model": {
+        "url": "images\gallery\rue_de_draguignan.jpg",
+        "altText": "Rue de Draguinan",
+        "height": "90%",
+        "width": "auto"
+      }
+    }
+  ]
+}
